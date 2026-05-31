@@ -61,7 +61,6 @@ distilbert-imdb-sentiment/
 ├── bert_sentiment_finetune.py  # Complete training pipeline
 ├── app.py                      # Gradio web application
 ├── requirements.txt            # Space dependencies
-├── model_experiments.db        # SQLite experiment log
 └── README.md
 ```
 
